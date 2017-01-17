@@ -70,10 +70,10 @@ public class MainActivity extends AppCompatActivity {
         // create RecyclerView.Adapter to bind tags to the RecyclerView
         adapter = new SearchesAdapter(
                 tags, itemClickListener, itemLongClickListener);
-        recyckerView.setAdapter(adapter);
+        recyclerView.setAdapter(adapter);
 
         // specify a custom ItemDecorator to draw lines between list items
-        recyclyerView.addItemDecoration(new ItemDivider(this));
+        recyclerView.addItemDecoration(new ItemDivider(this));
 
         // register listener to save a new or edited search
         saveFloatingActionButton =
