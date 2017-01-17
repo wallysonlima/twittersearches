@@ -17,7 +17,8 @@
   <li>RecyclerView</li>
 </ul>
 
-![Printscreen Main](https://github.com/WallysonNunes/TwitterSearches/blob/master/print_screen/main_screen.png)
+![Printscreen Main](https://github.com/WallysonNunes/TwitterSearches/blob/master/print_screen/main_screen_02.png)
+![Printscreen second](https://github.com/WallysonNunes/TwitterSearches/blob/master/print_screen/second_screen.png)
 ![Printscreen Options](https://github.com/WallysonNunes/TwitterSearches/blob/master/print_screen/options_screen.png)
 ![Printscreen Twitter's search](https://github.com/WallysonNunes/TwitterSearches/blob/master/print_screen/search_screen.png)
 
