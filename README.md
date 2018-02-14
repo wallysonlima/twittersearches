@@ -1,4 +1,4 @@
-# TwitterSearches
+# Twitter Searches
 
 <h3>It's an android app that mechanism makes it easy to follow trending topics being discussed by Twitter’s.</h3>
 
